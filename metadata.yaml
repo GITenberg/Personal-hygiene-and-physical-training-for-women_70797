@@ -1,5 +1,8 @@
 _repo: Personal-hygiene-and-physical-training-for-women_70797
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70797-h/images/cover.jpg
 creator:
   author:
     agent_name: Galbraith, Anna M. (Anna Mary)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '1620'
     url: http://www.gutenberg.org/2009/agents/1620
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70797#Personal-hygiene-and-physical-training-for-women
 edition_note: 2nd edition, thoroughly revised
 gutenberg_issued: '2023-05-19'
 identifiers:
